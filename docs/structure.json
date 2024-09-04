@@ -5,6 +5,49 @@
 			{
 				"label": "Before you open Snapshot",
 				"file": "1_gettingstarted/1_before_you_open.md"
+			},
+			{
+				"label": "Glosary of terms",
+				"file": "1_gettingstarted/2_glosary_of_terms.md"
+			}
+		]
+	},
+	{
+		"label": "Home",
+		"children": [
+			{
+				"label": "Home",
+				"file": "1_home/home.md"
+			}
+		]
+	},
+	{
+		"label": "Organize",
+		"children": [
+			{
+				"label": "Organize",
+				"file": "2_organize/organize.md"
+			}
+		]
+	},
+	{
+		"label": "Positions",
+		"children": [
+			{
+				"label": "Positions",
+				"file": "3_positions/1_the_window.md"
+			},
+			{
+				"label": "Positions",
+				"file": "3_positions/2_root_tree.md"
+			},
+			{
+				"label": "Positions",
+				"file": "3_positions/3_root_section.md"
+			},
+			{
+				"label": "Positions",
+				"file": "3_positions/4_root_element.md"
 			}
 		]
 	}
