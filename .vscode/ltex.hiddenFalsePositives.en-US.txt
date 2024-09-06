@@ -1,0 +1,4 @@
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QButton properties 3 Button variable Button styling Button Properties 4 Button styling Location Location\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFor this example we will use the button to perform a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q on a Blackmagic design Atem switcher\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QLet's jump back to the properties quickly and change the text on the button Button Atem Variable\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QAction search Action search 2\\E$"}
