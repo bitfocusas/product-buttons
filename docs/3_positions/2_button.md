@@ -7,7 +7,7 @@ The first ting to notice is the 8 dots in the top left corner of a selected butt
 ![Button properties 1](images/button_properties_1.png 'Button properties 1')
 **Label** in the top right corner is the name of the button in the tree view
 **Style** is how the layout on the button will be presented
-* The first is a combination of a Icon an one line of text
+* The first is a combination of an Icon and one line of text
 * The second is icon only
 * The third is 3 lines of text where the top line is color inverted
 * The fourth is 3 lines of text where the middle line is bigger than the others
