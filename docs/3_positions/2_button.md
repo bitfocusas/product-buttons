@@ -59,13 +59,13 @@ Click on `ME:Set Program Input`
 
 We have now created a button that when pushed will set the Program bus on the Atem to input 1.
 
-Let's jump back to the properties quickly and change the text on the button
+Let's jump back to the properties quickly and change the text on the `Button`
 ![Button Atem Variable](images/button/button_variable_atem.png 'Button Atem Variable')
 Notice that when you start typing the $ `Buttons` will start suggesting possibilities for you. Use a "." to separate the different parts of the variable.
 ![Button with variable](images/button/button_with_variable.png 'Button with variable')
 Let's go back to the `Action` dialog
 ![Action dialog](images/button/action_1.png 'Action dialog')
-There is more to this than first meets the eye notice the + sign between Step 1 and Feedbacks, by `Clicking` this you will add steps making the button a little "playlist" which will perform  one action after the other each time you press the button.
+There is more to this than first meets the eye notice the + sign between Step 1 and Feedbacks, by `Clicking` this you will add steps making the button a little "playlist" which will perform one action after the other each time you press the button.
 ![Action 3](images/button/action_3.png 'Action 3') 
  You can also add more actions in the same step by pressing the `+ Add Action` at the bottom of the dialog. And add a delay from the press of the button to the action fires all delays are from the press of the button.
  But now we will look into the `Feedback` tab of the `Action` dialog

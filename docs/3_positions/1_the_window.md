@@ -5,7 +5,7 @@ You will then be presented with a dialog box to enter a label for the position. 
 ![Create position](images/position/create_position.png 'create poition')
 Click Create position, and the position editor window will open.
 ![Position editor window](images/position/position_editor_window.png 'position editor window')
-The position editor window has 3 panes the left which is the Navigation tree, the middle which is a 16x16 button grid called Canvas and the right which contains Inspector, Presets and Configuration tabs.
+The position editor window has 3 panes the left which is the Navigation tree, the middle which is a 16x16 grid called Canvas and the right which contains Inspector, Presets and Configuration tabs.
 ![Inspector](images/position/inspector.png 'inspector')
 The inspector will show the grid size of 16W and 16H let's leave it at that for now, but it can be changed at any time.
 Let's first go to the configuration tab
@@ -14,9 +14,9 @@ Here we can change the name, give a description of the position and assign surfa
 ![Configuration_2](images/position/configuration_2.png 'Configuration_2')
 `Click` on `Assign Surface`and select the appropriate surface.
 ![Configuration 3](images/position/configuration_3.png 'Configuration 3')
-You will notice that the Surface appears in the canvas above in the configuration tab and a similar outline appears in the center pane canvas, this shows you which part of the canvas the surface will cover. You can grab the "surface" in the configuration tab to move it in to the position you want on the canvas, Let's quickly ad another surface.
+You will notice that the Surface appears in the canvas above in the configuration tab and a similar outline appears in the center pane canvas, this shows you which part of the canvas the surface will cover. You can grab the "surface" in the configuration tab to move it in to the position you want on the canvas, Let's quickly add another surface.
 ![Configuration 4](images/position/configuration_4.png 'Configuration 4')
-As you see there is now 2 `Surfaces` assigned to the `Position` and at the moment they overlap, you will also notice that the outline matches the number of buttons of the assigned `Surface` STREAM DECK STUDIO has 2 rows of 16 buttons and the STREAM DECK XL has 4 rows of 8 buttons. Any combination of `Surfaces` are allowed to be combined on the same canvas.
+As you see there is now 2 `Surfaces` assigned to the `Position` and at the moment they overlap, you will also notice that the outline matches the number of buttons of the assigned `Surface` STREAM DECK STUDIO has 2 rows of 16 buttons and the STREAM DECK XL has 4 rows of 8 buttons. Any combination of `Surfaces` are allowed the same canvas.
 ![Click inside any rectangle](images/position/click_inside_any_rectangle.png 'Click inside any rectangle')
 `Click` inside any rectangle, the outline will be dashed to show that it's selected. Now you can `Right click` to bring up the context menu from here you can create a **Button**, **Section**, **Shift Section**, **Popover** and **Plugins** Paste and Clear Selection are self-explanatory, but we will go through the rest.
 ![Right Click](images/position/right_click.png 'Right Click')
