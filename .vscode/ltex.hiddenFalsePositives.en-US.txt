@@ -2,3 +2,10 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFor this example we will use the button to perform a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q on a Blackmagic design Atem switcher\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QLet's jump back to the properties quickly and change the text on the button Button Atem Variable\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QAction search Action search 2\\E$"}
+{"rule":"NON_STANDARD_WORD","sentence":"^\\QIf we grab the red Program(M/E 1) \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and drag it on to the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"UH_UH_COMMA","sentence":"^\\QAction Action_1 Action is where we connect the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q with \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q or other functions inside \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q itself.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QButton properties 3 Button variable Button styling Button Properties 4 Button styling Location Location Flow determine how a \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q behave or are positioned relative to other elements on the \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QOrganize\norganize page Large implementations of buttons can greatly benefit from additional organizational structure, here you can add \"tags\" and structure according to your needs.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QHome Page\nhome page The home page gives you a quick overview of your setup\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QPosition\nposition \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is how we define a collection of one or multiple \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, It also typically aligns with the working position of a person for example Vision Mixer, Graphics or Shader.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QNow we will look into the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q tab of the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q dialog Feedback dialog \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q the + Add Feedback Feedback 2 \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q on ME: One ME Program source this will bring up the following dialog.\\E$"}

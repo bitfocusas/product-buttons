@@ -1,8 +1,8 @@
-**Organize**
+# Organize
 ![organize page](images/organize.png 'organize page')
 Large implementations of buttons can greatly benefit from additional organizational structure, here you can add "tags" and structure according to your needs.
 For example "studio name.", "room number or name.", "floor plan number or name." and so on. Any organizational value that will make it easier to group equipment, software, positions, workstations and units together.
-Tags can also be utilized for Tag based routing where you can route Tag "Program" to every monitor with tag "2nd.floor audience monitors"
+Tags can also be utilized for routing, where the routing process is equipment agnostic for the user, Tags will determine what can be routed where without the requirement of any deep system knowledge of the user
 
 With Tag based routing you can ensure.
 
