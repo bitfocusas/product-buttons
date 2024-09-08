@@ -35,10 +35,38 @@
 					{
 						"label": "Preset",
 						"file": "3_positions/3_presets.md"
+					},
+					{	
+						"label": "Section",
+						"file": "3_positions/4_section.md"
+					},
+					{	
+						"label": "Shift Section",
+						"file": "3_positions/5_shift_section.md"
+					},
+					{	
+						"label": "Popover",
+						"file": "3_positions/6_popover.md"
+					},
+					{	
+						"label": "Plugins",
+						"file": "3_positions/7_plugins.md"
 					}
-				]	
 
-			}
+				]	
+			},
+			{
+				"label": "Surface",
+				"file": "4_surface/1_surface.md"
+			},
+			{
+				"label": "SurfaceConnect",
+				"file": "5_connect/1_connect.md"
+			},
+			{
+				"label": "Settings",
+				"file": "6_settings/1_settings.md"
+			}			
 		]
 	}
 ]
