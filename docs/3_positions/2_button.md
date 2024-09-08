@@ -1,6 +1,8 @@
 
 ![Button](images//button/button.png 'Button')
 
+<img src="images//button/button.png" alt="Girl in a jacket" width="110" height="96">
+
 A `Button` is the basic action handler you push it and something happens, it has a lot of properties, and we will go through them step by step.
 
 The first ting to notice is the *8 dots* in the top left corner of a selected `Button` this is the *Handle bar* if you hover your mouse over it, it will change into an open hand, and you can click to grab the button and move it around the `Canvas`.
