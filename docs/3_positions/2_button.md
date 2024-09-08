@@ -1,7 +1,7 @@
 
 ![Button](images//button/button.png 'Button')
 
-<img src="images//button/button.png" alt="Girl in a jacket" width="110" height="96">
+
 
 A `Button` is the basic action handler you push it and something happens, it has a lot of properties, and we will go through them step by step.
 
