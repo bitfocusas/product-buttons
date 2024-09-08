@@ -13,26 +13,16 @@
 		]
 	},
 	{
-		"label": "Home",
+		"label": "Buttons",
 		"children": [
 			{
 				"label": "Home",
 				"file": "1_home/home.md"
-			}
-		]
-	},
-	{
-		"label": "Organize",
-		"children": [
+			},
 			{
-				"label": "Organize",
+				"label": "Tag organizer",
 				"file": "2_organize/organize.md"
-			}
-		]
-	},
-	{
-		"label": "Positions",
-		"children": [
+			},
 			{
 				"label": "Positions",
 				"file": "3_positions/1_position.md"
@@ -49,6 +39,7 @@
 				"label": "Positions",
 				"file": "3_positions/4_root_element.md"
 			}
+
 		]
 	}
 ]
