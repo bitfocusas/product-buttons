@@ -1,5 +1,10 @@
 To be filled out and organized
 
+**BOLD** is used when referring to functions of **Buttons** or actual actions to be carried out by the user **Click**.
+*Cursive* is used when referring to options in dialog boxes onscreen
+
+
+
 
 Key words
 Tag
