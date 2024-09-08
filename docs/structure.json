@@ -1,6 +1,7 @@
 [
 	{
 		"label": "Getting started",
+		"file": "welcome.md",
 		"children": [
 			{
 				"label": "Before you open Buttons",
@@ -25,21 +26,19 @@
 			},
 			{
 				"label": "Positions",
-				"file": "3_positions/1_position.md"
-			},
-			{
-				"label": "Button",
-				"file": "3_positions/2_button.md"
-			},
-			{
-				"label": "Preset",
-				"file": "3_positions/3_presets.md"
-			},
-			{
-				"label": "Positions",
-				"file": "3_positions/4_root_element.md"
-			}
+				"file": "3_positions/1_position.md",
+				"children": [			
+					{	
+						"label": "Button",
+						"file": "3_positions/2_button.md"
+					},
+					{
+						"label": "Preset",
+						"file": "3_positions/3_presets.md"
+					}
+				]	
 
+			}
 		]
 	}
 ]
