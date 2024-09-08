@@ -1,4 +1,3 @@
-# Button
 
 ![Button](images//button/button.png 'Button')
 A `Button` is the basic action handler you push it and something happens, it has a lot of properties, and we will go through them step by step.

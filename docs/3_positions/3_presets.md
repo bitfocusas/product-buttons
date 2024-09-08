@@ -1,4 +1,4 @@
-# Presets
+
 ![Preset window 1](images/presets/preset_1.png 'Preset window 1')
 Select the `Presets` tab in the right pane of the window, and you will be presented with a menu of any connections you have that has `Presets` in the module. `Presets` are pre-made `Buttons` that the author of the module has included to make adding complete `Buttons` faster and easier. If we select the Atem Extreme 1 in the menu we will be presented with the options below.
 ![Preset Atem](<images/presets/preset_2 .png> 'Preset Atem')

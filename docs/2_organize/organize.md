@@ -1,4 +1,4 @@
-# Organize
+
 ![organize page](images/organize.png 'organize page')
 Large implementations of buttons can greatly benefit from additional organizational structure, here you can add "tags" and structure according to your needs.
 For example "studio name.", "room number or name.", "floor plan number or name." and so on. Any organizational value that will make it easier to group equipment, software, positions, workstations and units together.

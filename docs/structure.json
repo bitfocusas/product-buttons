@@ -3,7 +3,7 @@
 		"label": "Getting started",
 		"children": [
 			{
-				"label": "Before you open Snapshot",
+				"label": "Before you open Buttons",
 				"file": "1_gettingstarted/1_before_you_open.md"
 			},
 			{
@@ -35,14 +35,14 @@
 		"children": [
 			{
 				"label": "Positions",
-				"file": "3_positions/1_the_window.md"
+				"file": "3_positions/1_position.md"
 			},
 			{
-				"label": "Positions",
+				"label": "Button",
 				"file": "3_positions/2_button.md"
 			},
 			{
-				"label": "Positions",
+				"label": "Preset",
 				"file": "3_positions/3_presets.md"
 			},
 			{

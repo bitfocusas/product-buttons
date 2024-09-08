@@ -1,4 +1,4 @@
-# Position
+
 ![position](images/position/positions.png 'position')
 `Position` is how we define a collection of one or multiple `Surfaces`, It also typically aligns with the working position of a person for example Vision Mixer, Graphics or Shader. Each `Position` may be Tag'ed for better `Organization`. You can create a new `Position` by pressing the *(+create)* in the top of the left pane.
 You will then be presented with a dialog box to enter a label for the `Position`. Some planing regarding naming conventions is smart, so that the system will be logical and consistent.
