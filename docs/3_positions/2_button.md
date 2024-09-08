@@ -62,7 +62,8 @@ For this example we will use the *Down Action Handler*
 
 ![Add action](images/button/action_add_action.png)
 
-`Click` on *+ Add Action* and chose a `Action` from the popup menu this menu can be very extensive with a lot of `connections`. You can also`click` the **...** menu to bring up a search and filter selection menu
+`Click` on *+ Add Action* and chose a `Action` from the popup menu this menu can be very extensive with a lot of `connections`.
+You can also `click` the **...** menu to bring up a search and filter selection menu
 
 ![Action search](images/button/action_search.png 'Action search')
 ![Action search 2](images/button/action_search_2.png 'Action search 2')
