@@ -3,9 +3,9 @@
 
 Select the **Presets** tab in the right pane of the window, and you will be presented with a menu of any connections you have that has **Presets** in the module. **Presets** are pre-made **Buttons** that the author of the module has included to make adding complete **Buttons** faster and easier. If we select the Atem Extreme 1 in the menu we will be presented with the options below.
 
-![Preset Atem](<images/presets/preset_2 .png> 'Preset Atem')
+![Preset Atem](<images/presets/preset_2.png> 'Preset Atem')
 
-The colors shown here are actual **Feedback** colors, so they reflect the status of the connected Atem in this case. If we grab the red *Program(M/E 1)* **Button** and drag it on to the **Canvas**. We have essentially created the same **Button** as in the last section with one "drag and drop"
+There is an option on the top to preview feedbacks, the colors shown are actual **Feedback** colors, so they reflect the status of the connected Atem in this case. If we grab the red *Program(M/E 1)* **Button** and drag it on to the **Canvas**. We have essentially created the same **Button** as in the last section with one "drag and drop"
 
 ![Preset with Button](images/presets/preset_3.png 'Preset with Button')
 
@@ -13,7 +13,7 @@ Notice that there are a few options above the **Buttons**.
 
 ![Preset closeup](images/presets/preset_closeup.png 'Preset closeup')
 
-We can start with the **...** menu
+We can start with the **Style** menu
 
 ![Preset Style](images/presets/preset_closeup_2.png 'Preset style')
 
@@ -31,13 +31,15 @@ When you try to grab it you will notice that the whole row gets selected, and th
 ![Preset section on canvas](images/presets/preset_section_on_canvas.png 'Preset section on canvas')
 
 Notice the **...** **Button** on the end of the **Section** it indicates that the section extends beyond the **Canvas** and you can push that button to reveal the remaining **Buttons**
-You can edit the section freely after you have dragged it on to the Canvas let say we don't need the *BLK*, *MP1K* and *MP2K* **Buttons**. Just select them one by one and delete them, be careful that you actually select the **Button** and not the whole section.
+You can edit the section freely after you have dragged it on to the Canvas let say we don't need the *BLK*, *MP1K* and *MP2K* **Buttons**. Just select them one by one and delete them, be careful that you actually select the **Button** and not the whole section. Or you can delete the buttons in the tree view, by *CMD/CTRL + Clicking* on the labels and then *Right-Clicking* to bring up the context menu.
+
+![Tree-pane](images/presets/preset_tree.png)
 
 Now let's have a look at the last option **Popover**
 
 ![Preset Popover](images/presets/Preset_popover.png 'Preset Popover')
 
-You will notice that there's only one **Button** here, let's drag it on to the **Canvas** and push it.
+You will notice that there's only one **Button** here, let's drag it on to the **Canvas** and *push* it.
 
 ![Preset popover on Canvas](images/presets/preset_popover_on_canvas.png 'Preset popover on canvas')
 

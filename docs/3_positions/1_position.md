@@ -15,7 +15,7 @@ The **Position** editor window has 3 panes the left which is the Navigation tree
 ![Inspector](images/position/inspector.png 'inspector')
 
 The **Inspector** will show the grid size of 16W and 16H let's leave it at that for now, but it can be changed at any time.
-Let's first go to the configuration tab
+Let's first go to the **configuration** tab
 
 ![Configuration](images/position/configuration_1.png 'Configuration')
 
