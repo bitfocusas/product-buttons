@@ -1,4 +1,6 @@
-Bitfocus Buttons is an advanced, professional-grade control software designed to enhance live production environments beyond the capabilities of its predecessor, Bitfocus Companion. Tailored for larger and more complex setups, Buttons offers sophisticated features such as scrollable sections for efficient navigation, section authentication with PIN and RFID for secure access, and dynamic presets that streamline workflow management by allowing easy creation and updating of preset banks.
+Bitfocus Buttons is a professional control software designed to enhance live production environments beyond the capabilities of the related, open source, Bitfocus Companion. 
+
+Tailored for larger and more complex setups, Buttons offers features such as scrollable sections for efficient navigation, section authentication with PIN and RFID for secure access, and dynamic presets that streamline workflow management by allowing easy creation and updating of preset banks.
 
 Key functionalities include the Automatic XY Routing Crosspoint Module, which automates complex routing tasks, and multi-position handling that supports multiple operators or desks with isolated configurations, ideal for large installations. Buttons is built to scale, managing multiple desks, operators, and devices seamlessly, and supports enterprise-level features like 2110 routing, virtual routing, and SNMP monitoring. It also integrates resource access control, ensuring secure and organized multi-user environments.
 
