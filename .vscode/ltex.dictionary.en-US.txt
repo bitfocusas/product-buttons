@@ -1,2 +1,4 @@
 Atem
 Blackmagic
+autodiscovered
+Bitfocus
