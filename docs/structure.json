@@ -24,38 +24,35 @@
 	},
 	{
 		"label": "Positions",
-		"file": "3_positions/1_position.md",
-		"children": [			
-			{	
-				"label": "Button",
-				"file": "3_positions/2_button.md"
-			},
-			{
-				"label": "Preset",
-				"file": "3_positions/3_presets.md"
-			},
-			{	
-				"label": "Section",
-				"file": "3_positions/4_section.md"
-			},
-			{	
-				"label": "Shift Section",
-				"file": "3_positions/5_shift_section.md"
-			},
-			{	
-				"label": "Folder Section",
-				"file": "3_positions/6_folder_section.md"
-			},
-			{	
-				"label": "Popover",
-				"file": "3_positions/7_popover.md"
-			},
-			{	
-				"label": "Router",
-				"file": "3_positions/8_router.md"
-			}
-
-		]	
+		"file": "3_positions/1_position.md"				
+	},
+	{	
+		"label": "Button",
+		"file": "3_positions/2_button.md"
+	},
+	{
+		"label": "Preset",
+		"file": "3_positions/3_presets.md"
+	},
+	{	
+		"label": "Section",
+		"file": "3_positions/4_section.md"
+	},
+	{	
+		"label": "Shift Section",
+		"file": "3_positions/5_shift_section.md"
+	},
+	{	
+		"label": "Folder Section",
+		"file": "3_positions/6_folder_section.md"
+	},
+	{	
+		"label": "Popover",
+		"file": "3_positions/7_popover.md"
+	},
+	{	
+		"label": "Router",
+		"file": "3_positions/8_router.md"
 	},
 	{
 		"label": "Connect",
