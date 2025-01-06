@@ -27,7 +27,7 @@ When you select and drag a **Section**, the entire row of buttons is highlighted
 
 ![Preset section on canvas](images/presets/preset_section_on_canvas.png "Preset section on canvas")  
 
-Notice the **...** **Button** at the end of the **Section**. This indicates that the section extends beyond the visible **Canvas**. Clicking it reveals additional **Buttons**. After dragging the section onto the **Canvas**, you can edit it as needed. For instance, if you don’t need the *BLK*, *MP1K*, and *MP2K* **Buttons**, you can delete them individually. Be cautious to select the specific **Button**, not the entire section. Alternatively, you can delete buttons via the tree view by *CMD/CTRL + Clicking* their labels, then *Right-Clicking* to open the context menu.
+Notice the **...** **Button** at the end of the **Section**. This indicates that the section extends beyond the visible **Canvas**. Clicking it reveals additional **Buttons**. After dragging the section onto the **Canvas**, you can edit it as needed. For instance, if you don’t need the *BLK*, *MP1K*, and *MP2K* *Buttons*, you can delete them individually. Be cautious to select the specific **Button**, not the entire section. Alternatively, you can delete buttons via the tree view by *CMD/CTRL + Clicking* their labels, then *Right-Clicking* to open the context menu.
 
 ![Tree-pane](images/presets/preset_tree.png)  
 

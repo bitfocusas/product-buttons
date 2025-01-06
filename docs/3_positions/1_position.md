@@ -1,4 +1,4 @@
-![position](images/position/positions.png 'Position')
+![Position](images/position/positions.png 'Position')
 
 **Position** defines a collection of one or more **Surfaces**. It typically aligns with the working role of an individual, such as Vision Mixer, Graphics, or Shader. Each **Position** can be tagged for better **Organization**. To create a new **Position**, click the `+Create` button at the top of the left pane. 
 
@@ -41,7 +41,7 @@ You can combine **Surfaces** freely within the same **Canvas**, moving them arou
 
 ![Click inside any rectangle](images/position/click_inside_any_rectangle.png 'Click inside any rectangle')
 
-**Click** inside any rectangle; its outline will become dashed, indicating it's selected. **Right-click** to open the context menu. From here, you can create a **Button**, **Section**, **Shift Section**, **Popover**, or **Plugins**. The **Paste** and **Clear Selection** options are self-explanatory, but the other features will be explained further.
+**Click** inside any rectangle; its outline will become dashed, indicating it's selected. **Right-click** to open the context menu. From here, you can create a **Button**, **Section**, **Shift Section**, **Folder Section**, **Popover**, or **Router**. The **Paste** and **Clear Selection** options are self-explanatory, but the other features will be explained further.
 
 ![Right Click](images/position/right_click.png 'Right Click')
 
@@ -53,6 +53,6 @@ You have now created a **Button**.
 
 ![Side pane](images/position/side-pane_callout.png 'Side Pane')
 
-To optimize your workspace, you can move the **Inspector** pane from the side pane to the bottom of the screen. This adjustment provides more real estate for making multiple edits without excessive navigation.
+To optimize your workspace, you can move the **Inspector** pane from the side pane to the bottom of the screen. This setting provides more real estate for making multiple edits without excessive navigation.
 
 ![Bottom Pane](images/position/bottom-pane_callout.png 'Bottom Pane')

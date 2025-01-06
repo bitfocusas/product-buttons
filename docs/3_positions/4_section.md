@@ -55,7 +55,7 @@ Sometimes it’s necessary to protect buttons from accidental activation or unau
 ![Code Rule](images/section/code_rule.png)  
 You can add multiple **code rules** to a section based on your needs. Codes must be numerical, and you can also set a time limit for the section to auto-lock after being unlocked.
 
-![Locked Section](images/section/locked_section1.png)  
+![Locked Section](<images/section/locked _section1.png>)
 When a section is locked, it looks like this. Pressing a button within the locked section brings up the code panel.
 
 ![Code panel](images/section/codepanel.png)  

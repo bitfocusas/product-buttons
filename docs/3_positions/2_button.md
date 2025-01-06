@@ -53,8 +53,8 @@ Each text box includes a **Variable Selector** button, which opens a dialog for 
 Actions connect the **Button** to **Connections** or internal functions. Action handlers include:
 - **Press**: Executes when the button is pressed.
 - **Release**: Executes when released.
-- **Left/Right**: Assigns actions to encoder rotations on **SDS**.
-- **Encoder**: Assigns both left and right rotations to separate actions.
+- **Left/Right**: Assigns actions an action to the left rotation and another to the right rotation **SDS**.
+- **Encoder**: Assigns both left and right rotations to a single Action and the Delta is used to adjust the value of the action **SDS**.
 
 For example, we’ll use the *Press Action Handler*:  
 ![Add Action](images/button/action_add_action.png 'Add Action')
@@ -77,7 +77,7 @@ Buttons can act as playlists, performing multiple actions sequentially:
 ![Action Dialog](images/button/action_1.png 'Action Dialog')  
 - Add steps by clicking the *+* after *Step 1*.  
 - Each step has unique **Style** and **Action** dialogs.  
-- Use the `cogwheel` to auto-progress through steps with delays.
+- Under the `cogwheel` you find an option to set auto-progress through steps with delays.
 
 ![Action 4](images/button/action_4.png 'Action 4')  
 

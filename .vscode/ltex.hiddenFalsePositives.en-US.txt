@@ -9,3 +9,8 @@
 {"rule":"PHRASE_REPETITION","sentence":"^\\QHome Page\nhome page The home page gives you a quick overview of your setup\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QPosition\nposition \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is how we define a collection of one or multiple \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, It also typically aligns with the working position of a person for example Vision Mixer, Graphics or Shader.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QNow we will look into the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q tab of the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q dialog Feedback dialog \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q the + Add Feedback Feedback 2 \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q on ME: One ME Program source this will bring up the following dialog.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q64 Btn Section Here, we have a section with 64 buttons.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q64 Btn Section You will notice a warning about \"Item Overflow\" in the section, along with an option to “Enable Scroll.”\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QLocation\nLocation\\E$"}
+{"rule":"FILE_EXTENSIONS_CASE","sentence":"^\\QIcon Upload png1 Upload png 2\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIf you click the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q button in the top-right corner of the page, you will be taken to the labels editor.\\E$"}
