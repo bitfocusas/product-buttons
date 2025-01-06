@@ -1,119 +1,108 @@
+![Button](images/button/button.png 'Button')
 
-![Button](images//button/button.png 'Button')
+A **Button** is a fundamental action handler. You push it, and something happens. It has many properties, which we will explore step by step.
 
-
-
-A **Button** is the basic action handler you push it and something happens, it has a lot of properties, and we will go through them step by step.
-
-The first ting to notice is the *8 dots* in the top left corner of a selected **Button** this is the *Handle bar* if you hover your mouse over it, it will change into an open hand, and you can click to grab the button and move it around the **Canvas**.
+The first thing to notice is the *8 dots* in the top-left corner of a selected **Button**. This is the *Handle Bar*. When you hover over it, your mouse will change to an open hand, allowing you to click and drag the button around the **Canvas**.
 
 ![Button properties 1](images/button/button_properties_1.png 'Button properties 1')
 
-**Label** in the top right corner is the name of the **Button** in the tree view.
-**Style** is how the layout on the **Button** will be presented.
-* The first is a combination of an Icon and one line of text. (Default)
-* The second is icon only.
-* The third is 3 lines of text where the top line has its own color properties.
-* The fourth is 3 lines of text where the middle line is bigger than the others.
+### **Button Properties Overview**
+- **Label**: The name of the **Button** displayed in the tree view.
+- **Style**: Determines the layout of the **Button**:
+  - Icon and one line of text (Default).
+  - Icon only.
+  - Three lines of text where the top line has distinct color properties.
+  - Three lines of text where the middle line is larger than the others.
 
-**Icon** will present you with a dropdown of multiple different icons, you can use search to find an appropriate icon.
+- **Icon**: Select an icon from a dropdown or use the search bar.  
+  You can also click the `x` to upload a **PNG** file as an icon.
 
-![Icon](images/button/icon.png 'Icon')
+![Icon](images/button/icon.png 'Icon')  
+![Upload png1](images/button/upload_png1.png 'Icon')  
+![Upload png 2](images/button/upload_png_2.png 'Icon')
 
-![Button properties 2](images/button/button_properties_2.png 'button properties 2')
+### **Text Fields**
+Text fields depend on the chosen button style:  
+![Button properties 2](images/button/button_properties_2.png 'Button properties 2')
+- **Context**: The top line in the third and fourth styles.
+- **Text**: The middle line in the third and fourth styles (or the only line in the first style).
+- **Text 2**: The bottom line in the third and fourth styles.
 
-**Context** Is the top line in the Third and Fourth button style  
-**Text** Is the middle line in the Third and Fourth button style and the only line in the First button style
-**Text 2** Is the lower line in the Third and Fourth button style
-all text lines can use plain text or **Variables** where you can have dynamic content from connected equipment or from **Buttons** itself.
+Each text box includes a **Variable Selector** button, which opens a dialog for browsing and selecting available system variables.
 
-![Button properties 3](images/button/button_properties_3.png 'Button properties 3')
-![Button variable](images/button/button_variable.png 'button variable') 
+![Variable Selector Dialog](images/button/var_sel_dialog.png 'Variable Selector Dialog')  
+![Button properties 3](images/button/button_properties_3.png 'Button properties 3')  
+![Button variable](images/button/button_variable.png 'Button variable')
 
-**Button styling**
-
-![Button Properties 4](images/button/button_properties_4.png 'Button properties4')
+### **Styling**
+![Button Properties 4](images/button/button_properties_4.png 'Button Properties 4')  
 ![Button styling](images/button/button_styling.png 'Button styling')
 
-**Location**
-
+### **Location**
 ![Location](images/button/location.png 'Location')
 
-**Flow** determine how a **Button** behave or are positioned relative to other elements on the **Canvas**
+- **Flow** determines button behavior and positioning:
+  - **Float**: Positions dynamically, starting from top-left.
+  - **Static**: Allows full customization by setting X/Y coordinates (Default).
+  - **Anchor**: Automatically positions the button in corners, allowing resizing.
+  - **Fixed**: Similar to anchor but unaffected by scrolling.
 
-- **Float** Used to position an element in the first available slot, starting from top-left. The go-to for a dynamic layout.
-- **Static** When you want full customization of where any button is placed. Set X / Y. (Default)
-- **Anchor** Used to automatically position an element in any corner. Allows a section to be easily resized while keeping an element in any corner.
-- **Fixed** Used to automatically position an element in any corner, but will not be affected by scrolling. (Sticky)
-  
-**Action**
+### **Action Handling**
+![Action 1](images/button/action_1.png 'Action 1')
 
-![Action_1](images/button/action_1.png 'Action_1')
+Actions connect the **Button** to **Connections** or internal functions. Action handlers include:
+- **Press**: Executes when the button is pressed.
+- **Release**: Executes when released.
+- **Left/Right**: Assigns actions to encoder rotations on **SDS**.
+- **Encoder**: Assigns both left and right rotations to separate actions.
 
-**Action** is where we connect the **Button** with **Connections** or other functions inside **Buttons** itself. For this example we will use the **Button** to perform a **Action** on a Blackmagic design Atem switcher. There are 5 action handlers to choose from 
+For example, we’ll use the *Press Action Handler*:  
+![Add Action](images/button/action_add_action.png 'Add Action')
 
-- **Down** which will perform the **Action** when you press the **Button**.
-- **Up** which will perform the **Action** when you release the **Button**.
-- **Left** that will *move* the **Action** to the **Encoders** on she **SDS** and perform the **Action** when it's rotated left.
-- **Right** that will *move* the **Action** to the **Encoders** on the **SDS** and perform the **Action** when it's rotated right.
-- **Encoder** that will *move* the **Action** to the **Encoders** on the **SDS** and perform a **-Action** when turned left and a **+Action** when turned right.
-  
-![Action 2](images/button/action_2.png)  
+1. **Click** on *+ Add Action* and select an action.  
+2. Use the search and filter menu for large **Connections** lists.  
 
-For this example we will use the *Down Action Handler* 
+![Action Search](images/button/action_search.png 'Action Search')  
+![Action Search 2](images/button/action_search_2.png 'Action Search 2')
 
-![Add action](images/button/action_add_action.png)
+**Example:** Select *ME:Set Program Input*. The button will set the Atem switcher’s Program bus to input 1.  
 
-**Click** on *+ Add Action* and chose a **Action** from the popup menu this menu can be very extensive with a lot of **Connections**.
-You can also **Click** the **...** menu to bring up a search and filter selection menu
+![Action 3](images/button/action_3.png 'Action 3')  
+Update the button text with variables for dynamic display:  
+![Button Variable Atem](images/button/button_variable_atem.png 'Button Variable Atem')  
+![Button with Variable](images/button/button_with_variable.png 'Button with Variable')
 
-![Action search](images/button/action_search.png 'Action search')
-![Action search 2](images/button/action_search_2.png 'Action search 2')
+### **Action Steps**
+Buttons can act as playlists, performing multiple actions sequentially:  
+![Action Dialog](images/button/action_1.png 'Action Dialog')  
+- Add steps by clicking the *+* after *Step 1*.  
+- Each step has unique **Style** and **Action** dialogs.  
+- Use the `cogwheel` to auto-progress through steps with delays.
 
-**Click** on *ME:Set Program Input*
+![Action 4](images/button/action_4.png 'Action 4')  
 
-![Action 3](images/button/action_3.png 'Action 3')
+Delays can be set to **Absolute** or **Relative**:  
+- **Absolute**: Actions start a set time after button press (Default).  
+  ![Absolute Delay](images/button/delay-absolute.jpg 'Absolute Delay')  
+- **Relative**: Each action runs a set time after the previous one starts.  
+  ![Relative Delay](images/button/delay-relative.jpg 'Relative Delay')  
 
-We have now created a **Button** that when pushed will set the Program bus on the Atem to input 1.
+### **Feedback**
+The **Feedback** tab adjusts button appearance based on conditions.  
 
-Let's jump back to the properties quickly and change the text on the **Button**
+![Feedback Dialog](images/button/feedback.png 'Feedback Dialog')  
+- **Click** on *+ Add Feedback* and configure conditions.  
+- Example: Adjust button text or style when input 1 is live.  
 
-![Button Atem Variable](images/button/button_variable_atem.png 'Button Atem Variable')
+![Feedback Example](images/button/feedback_3.png 'Feedback Example')
 
-Notice that when you start typing the $ **Buttons** will start suggesting possibilities for you. Use a "**.**" to separate the different parts of the variable.
+### **Testing Buttons**
+Test buttons without a surface by holding **Shift** and clicking.  
 
-![Button with variable](images/button/button_with_variable.png 'Button with variable')
+![Execute Mode](images/button/execute_mode.png 'Execute Mode')  
+You can also execute actions directly within the action dialog:  
+![Execute in Action](images/button/execute_in_action.png 'Execute in Action')
 
-Let's go back to the **Action** dialog
+---
 
-![Action dialog](images/button/action_1.png 'Action dialog')
-
-There is more to this than first meets the eye, notice the *+* sign between *Step 1* and *Feedbacks*, by **Clicking** this you will add steps making the **Button** a little "playlist" which will perform one action after the other each time you press the **Button**.
-
-![Action 3](images/button/action_3.png 'Action 3') 
-
- You can also add more **Actions** in the same step by **Clicking** the *+ Add Action* at the bottom of the dialog. And you can add a delay from the press of the **Button** to the **Action** fires, all delays are from the press of the **Button**.
- Now we will look into the **Feedback** tab of the **Action** dialog
-
-![Feedback dialog](images/button/feedback.png 'Feedback dialog')
-
-**Click** the *+ Add Feedback*
-
-![Feedback 2](images/button/feedback_2.png 'Feedback 2')
-
-**Click** on *ME: One ME Program source* this will bring up the following dialog.
-
-![Feedback 3](images/button/feedback_3.png 'Feedback 3')
-
-Here you will be presented with options to alter the text and style of the **Button** if the choices in *Options* are True (or False if you use the invert button) in other words if Input 1 is chosen as the source on the ME one Program Bus
-
-![Feedback 4](images/button/feedback_4.png 'Feedback 4')
-
-Let's go into *Button Styling* and add a red background color. Now the **Button** background will turn red every time Input 1 is live on the Program bus of M/E1.
-
-If you have been following along in **Buttons** you may have noticed this dialog box popup every time you press the **Shift** button
-
-![Execute mode](images/button/execute_mode.png 'Execute mode')
-This will enable you to test your **Buttons** without a **Surface** connected. So hold **Shift** and **Click** on a **Button** to execute its **Actions**.
-
-There are a few more options in the properties list of **Buttons**, but we will get back to them at a later stage. Now let's jump to a method that for many connections makes configuring a **Button** much easier and much faster. **Presets**
+This concludes the **Button** overview. Up next: **Presets**, a faster method for configuring buttons.

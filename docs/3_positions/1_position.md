@@ -1,44 +1,58 @@
+![position](images/position/positions.png 'Position')
 
-![position](images/position/positions.png 'position')
+**Position** defines a collection of one or more **Surfaces**. It typically aligns with the working role of an individual, such as Vision Mixer, Graphics, or Shader. Each **Position** can be tagged for better **Organization**. To create a new **Position**, click the `+Create` button at the top of the left pane. 
 
-**Position** is how we define a collection of one or multiple **Surfaces**, It also typically aligns with the working position of a person for example Vision Mixer, Graphics or Shader. Each **Position** may be Tag'ed for better **Organization**. You can create a new **Position** by pressing the *(+create)* in the top of the left pane.
-You will then be presented with a dialog box to enter a label for the **Position**. Some planing regarding naming conventions is smart, so that the system will be logical and consistent.
+A dialog box will appear, prompting you to enter a label for the **Position**. It's a good idea to plan your naming conventions beforehand to maintain a logical and consistent system. You can also create **Positions** when configuring your **Surfaces**.
 
-![Create position](images/position/create_position.png 'create poition')
+![Create position](images/position/create_position.png 'Create Position')
 
-**Click** *Create position*, and the **Position** editor window will open.
+**Click** *Create Position*, and the **Position Editor** window will open.
 
-![Position editor window](images/position/position_editor_window.png 'position editor window')
+![Position editor window](images/position/position_editor_window.png 'Position Editor Window')
 
-The **Position** editor window has 3 panes the left which is the Navigation tree, the middle which is a 16x16 grid called **Canvas** and the right which contains **Inspector**, **Presets** and **Configuration** tabs.
+The **Position Editor** window consists of three panes:
+- **Left Pane**: Navigation tree  
+- **Middle Pane**: A 16x16 grid called the **Canvas**  
+- **Right Pane**: Contains **Inspector**, **Presets**, and **Configuration** tabs  
 
-![Inspector](images/position/inspector.png 'inspector')
+![Inspector](images/position/inspector.png 'Inspector')
 
-The **Inspector** will show the grid size of 16W and 16H let's leave it at that for now, but it can be changed at any time.
-Let's first go to the **configuration** tab
+In the **Inspector**, you'll see the default grid size of 16W x 16H. Leave it as is for now, as it can be modified later. Start by navigating to the **Configuration** tab.
 
 ![Configuration](images/position/configuration_1.png 'Configuration')
 
-Here we can change the name, give a description of the **Position** and assign **Surfaces** to the **Position**.
+Here, you can change the name, add a description for the **Position**, and assign **Surfaces** to it.
 
 ![Configuration_2](images/position/configuration_2.png 'Configuration_2')
 
-**Click** on *Assign Surface* and select the appropriate **Surface**.
+**Click** *Assign Surface* and select the desired **Surface**.
 
 ![Configuration 3](images/position/configuration_3.png 'Configuration 3')
-You will notice that the **Surface** appears in the **Canvas** above in the configuration tab and a similar outline appears in the center pane **Canvas**, this shows you which part of the **Canvas** the **Surface** will cover. You can grab the **Surface** in the configuration tab to move it in to the position you want on the **Canvas**, Let's quickly add another **Surface**.
+
+The selected **Surface** will appear in the **Canvas** in the **Configuration** tab. A corresponding outline will also display in the center pane **Canvas**, showing the part of the **Canvas** covered by the **Surface**. You can move the **Surface** to your preferred position on the **Canvas** by dragging it. Let’s quickly add another **Surface**.
 
 ![Configuration 4](images/position/configuration_4.png 'Configuration 4')
 
-As you see there is now 2 **Surfaces** assigned to the **Position** and at the moment they overlap, you will also notice that the outline matches the number of buttons of the assigned **Surface** STREAM DECK STUDIO has 2 rows of 16 buttons and the STREAM DECK XL has 4 rows of 8 buttons. Any combination of **Surfaces** are allowed the same canvas. Any **Buttons** on overlapping parts of surfaces will appear on both
+Now, there are two **Surfaces** assigned to the **Position**. The outlines correspond to the button layouts of the assigned **Surfaces**:  
+- The **STREAM DECK STUDIO** has two rows of 16 buttons.  
+- The **STREAM DECK XL** has four rows of 8 buttons.  
+
+You can combine **Surfaces** freely within the same **Canvas**, moving them around in the **Configuration** window. Overlapping parts of **Surfaces** will display shared buttons.
 
 ![Click inside any rectangle](images/position/click_inside_any_rectangle.png 'Click inside any rectangle')
 
-**Click** inside any rectangle, the outline will be dashed to show that it's selected. Now you can ***Right click*** to bring up the context menu from here you can create a **Button**, **Section**, **Shift Section**, **Popover** and **Plugins** **Paste** and **Clear Selection** are self-explanatory, but we will go through the rest.
+**Click** inside any rectangle; its outline will become dashed, indicating it's selected. **Right-click** to open the context menu. From here, you can create a **Button**, **Section**, **Shift Section**, **Popover**, or **Plugins**. The **Paste** and **Clear Selection** options are self-explanatory, but the other features will be explained further.
 
 ![Right Click](images/position/right_click.png 'Right Click')
 
-**Click** on **Button**
+**Click** on **Button**.
 
 ![Click on Button](images/position/button_on_grid.png 'Click on Button')
-You have now created a **Button**
+
+You have now created a **Button**.
+
+![Side pane](images/position/side-pane_callout.png 'Side Pane')
+
+To optimize your workspace, you can move the **Inspector** pane from the side pane to the bottom of the screen. This adjustment provides more real estate for making multiple edits without excessive navigation.
+
+![Bottom Pane](images/position/bottom-pane_callout.png 'Bottom Pane')

@@ -19,8 +19,8 @@
 		"file": "1_home/home.md"
 	},
 	{
-		"label": "Tag organizer",
-		"file": "2_organize/organize.md"
+		"label": "Surface",
+		"file": "2_surface/1_surface.md.md"
 	},
 	{
 		"label": "Positions",
@@ -43,26 +43,38 @@
 				"file": "3_positions/5_shift_section.md"
 			},
 			{	
+				"label": "Folder Section",
+				"file": "3_positions/6_folder_section.md"
+			},
+			{	
 				"label": "Popover",
-				"file": "3_positions/6_popover.md"
+				"file": "3_positions/7_popover.md"
 			},
 			{	
 				"label": "Plugins",
-				"file": "3_positions/7_plugins.md"
+				"file": "3_positions/8_plugins.md"
 			}
 
 		]	
 	},
 	{
-		"label": "Surface",
-		"file": "4_surface/1_surface.md"
+		"label": "Connect",
+		"file": "4_connect/1_connect.md"
 	},
 	{
-		"label": "Connect",
-		"file": "5_connect/1_connect.md"
+		"label": "Tags",
+		"file": "5_Tags/1_connect.md"
+	},
+	{
+		"label": "Routing",
+		"file": "6_Routing/1_routing.md"
+	},
+	{
+		"label": "Logout",
+		"file": "7_Logout/1_logout.md"
 	},
 	{
 		"label": "Settings",
-		"file": "6_settings/1_settings.md"
+		"file": "8_settings/1_settings.md"
 	}			
 ]

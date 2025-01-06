@@ -4,7 +4,7 @@ To be filled out and organized
 *Cursive* is used when referring to options in dialog boxes onscreen
 
 
-
+Terminoligy 
 
 Key words
 Tag
