@@ -38,7 +38,7 @@ In the right pane of the connection page, you’ll find all configuration option
 For Router-compatible connections, you'll have common configurations to select inputs and outputs for the router function. Additionally, you can access helpful information provided by the connection author via the `Question mark` icon in the top-right corner.  
 ![Add module](images/add_module.png)
 
-Once configured, the top row will indicate "connected," and the warning badge will disappear. Expandable options at the bottom of the screen display available *Variables* and *Actions* for the module.  
+Once configured, the top row will indicate "connected," and the warning badge will disappear. Expandable options at the bottom of the screen display available *Router sources and destinations*, *Variables* and *Actions* for the module.  
 ![Connected ATEM](images/conected_atem.png)  
 ![Expanded Variable](images/expanded_variable.png)
 

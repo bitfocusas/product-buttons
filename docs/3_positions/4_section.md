@@ -25,7 +25,7 @@ Let’s take a closer look at the **Inspector** for the section:
 
 ---
 
-### Handling Overfilled Sections
+### Handling Overflowing Sections
 
 ![64 Btn Section](images/section/section_64btn.png)  
 Here, we have a section with 64 buttons. If we change the section size to **8x2**, it will look like this:
@@ -66,5 +66,9 @@ To use NFC security, select **“Add NFC Rule.”** A window will appear. Hold a
 
 ![Code + NFC Locked](images/section/code_nfc_locked.png)  
 When both a **Code Rule** and an **NFC Rule** are active, the section will look like this. To unlock the section using NFC, simply hold the NFC device near the reader.
+
+
+>**Tip:** 
+>You can use the NFC reader on the **Stream Deck Studio** to authenticate any section on any **Stream Deck** in the **Position.**
 
 ---
