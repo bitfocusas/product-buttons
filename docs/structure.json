@@ -13,7 +13,10 @@
 			}
 		]
 	},
-	
+	{
+		"label": "License",
+		"file": "License/license.md"
+	},
 	{
 		"label": "Home",
 		"file": "1_home/home.md"
