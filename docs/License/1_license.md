@@ -1,5 +1,5 @@
 **Adding a License**  
-To acquire a license for Buttons, log in to [bitfocus.io](https://bitfocus.io) and navigate to the **Buttons** category. You will be guided through the process of purchasing a subscription for **Buttons**.  
+To acquire a license for Buttons, log in to [user.bitfocus.io](https://bfoc.us/i90jvygd91) and navigate to the **Buttons** category. You will be guided through the process of purchasing a subscription for **Buttons**.  
 
 Once you have obtained the required license, navigate to the **Settings > License** page in the Buttons user interface.  
 ![License](images/license_1.png)  
