@@ -41,6 +41,25 @@ The Router Inspector provides layout options and settings for your Router Sectio
    ![Router Mono](images/router/router_mono.png)
 
 ---
+### Limiting Source and Destination access. 
+
+You can also control which sources and destinations are available for your particular router panel.
+   As an example we can use a producer monitor where you want to give the producer access to watch a select set of sources but only be able to change their own monitor alleviating any risk of accidental routing any critical destinations. This is done by using Tags.
+
+Start by adding a tag, in this example we will just put it in the location collection.
+![Router Tags](images/router/router_tag.png)
+Go in to the Destination bundles and select the output that the Producer monitor is connected to.
+![Router destinations](images/router/router_tag_destination.png)
+Likewise go in to the Source bundles and select the sources you want the Producer to be able to choose between. 
+![Router sources](images/router/router_tag_source.png)
+Then go in to the Inspector of the producer router panel, and change the tags under `Tags`
+![Change Router Tags](images/router/router_tag_change_tags.png)
+Your router panel will now only show the selected Sources and Destinations.
+![Producer Router](images/router/router_producer.png)
+
+
+
+---
 
 ### Filtering and Tagging
 
