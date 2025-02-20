@@ -30,3 +30,17 @@ If your remaining licenses cover the connected surfaces, or if you have no conne
 
 In this example, the number of available licenses is updated to 2/2.  
 ![License](images/license_8.png)  
+
+---
+
+**Recover a License**
+If you for any reason happen to see this in the lower left on your screen on a machine that you know should have a license.
+![No license](images/no_license.png)
+Go to the license page as instructed earlier and log in to the Bitfocus user account that holds the license for that machine, and you will be presented with the option shown below. Just click on the `Recover license` button and your license will be restored on to the machine 
+![Recover License](images/recover_license.png)
+
+---
+
+**Removing a License from a broken or lost machine.**
+
+If your machine is broken or lost and a license is still associated with that machine, you can retrieve that license back to your accounts license pool by sending an email to [support@bitfocus.io](mailto:support@bitfocus.io). Include information about the **host name** of the machine you want to retrieve the license from, and please send the e-mail from the e-mail account that is associated with the Bitfocus user account, so that we can verify that you have the rights to retrieve the license.  
