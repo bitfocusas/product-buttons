@@ -33,9 +33,9 @@ In this example, the number of available licenses is updated to 2/2.
 
 ---
 
-**Recover a License**  
+**Recover a License**   
 
-If you for any reason happen to see this in the lower left on your screen on a machine that you know should have a license.   
+If you for any reason happen to see this warning in the lower left of your screen on a machine that you know should have a license.   
 
 ![No license](images/no_license.png)   
 
