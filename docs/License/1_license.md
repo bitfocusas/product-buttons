@@ -34,10 +34,12 @@ In this example, the number of available licenses is updated to 2/2.
 ---
 
 **Recover a License**
-If you for any reason happen to see this in the lower left on your screen on a machine that you know should have a license.
+If you for any reason happen to see this in the lower left on your screen on a machine that you know should have a license.   
+
 ![No license](images/no_license.png)   
 
-Go to the license page as instructed earlier and log in to the Bitfocus user account that holds the license for that machine, and you will be presented with the option shown below. Just click on the `Recover ->` button and your license will be restored on to the machine 
+Go to the license page as instructed earlier and log in to the Bitfocus user account that holds the license for that machine, and you will be presented with the option shown below. Just click on the `Recover ->` button and your license will be restored on to the machine.   
+
 ![Recover License](images/recover_license.png)
 
 ---
