@@ -6,7 +6,9 @@
 ---
 
 ## Starting buttons
-![watchdog](images/watchdog.png 'Watchdog')
+
+
+![Watchdog](images/watchdog_release.png)
 
 When you start **Buttons**, a window pops up displaying all the running processes. From this window, you can restart any processes that aren’t running. You can also open the web interface here, and it’s the right place to quit **Buttons** if needed.
 
