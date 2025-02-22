@@ -2,12 +2,10 @@
 	{
 		"label": "Getting started",
 		"file": "1_gettingstarted/welcome.md",
-		"children": [
-			{
-				"label": "Before you open Buttons",
-				"file": "1_gettingstarted/1_before_you_open.md"
-			}	
-		]
+	},
+	{	
+		"label": "Before you open Buttons",
+		"file": "1_gettingstarted/1_before_you_open.md"	
 	},
 	{
 		"label": "License",
