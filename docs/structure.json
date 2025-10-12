@@ -16,59 +16,79 @@
 		"file": "1_home/home.md"
 	},
 	{
-		"label": "Surface",
-		"file": "2_surface/1_surface.md"
-	},
-	{
 		"label": "Positions",
-		"file": "3_positions/1_position.md"				
+		"file": "2_positions/1_position.md"				
 	},
 	{	
 		"label": "Button",
-		"file": "3_positions/2_button.md"
+		"file": "2_positions/2_button.md"
 	},
 	{
 		"label": "Preset",
-		"file": "3_positions/3_presets.md"
+		"file": "2_positions/3_presets.md"
 	},
 	{	
 		"label": "Section",
-		"file": "3_positions/4_section.md"
+		"file": "2_positions/4_section.md"
 	},
 	{	
 		"label": "Shift Section",
-		"file": "3_positions/5_shift_section.md"
+		"file": "2_positions/5_shift_section.md"
 	},
 	{	
 		"label": "Folder Section",
-		"file": "3_positions/6_folder_section.md"
+		"file": "2_positions/6_folder_section.md"
 	},
 	{	
 		"label": "Popover",
-		"file": "3_positions/7_popover.md"
+		"file": "2_positions/7_popover.md"
 	},
 	{	
 		"label": "Router",
-		"file": "3_positions/8_router.md"
+		"file": "2_positions/8_router.md"
+	},
+	{
+		"label": "Shared Section",
+		"file": "2_positions/9_shared_section.md"
 	},
 	{
 		"label": "Connect",
-		"file": "4_connect/1_connect.md"
+		"file": "3_connect/1_connect.md"
+	},
+	{
+		"label": "Connect",
+		"file": "3_connect/2_surface.md"
+	},
+	{
+		"label": "Workflow",
+		"file": "4_workflow/1_workflow.md"
+	},
+	{
+		"label": "Cuelist",
+		"file": "5_cuelist/1_cuelist.md"
 	},
 	{
 		"label": "Tags",
-		"file": "5_Tags/1_tags.md"
+		"file": "6_Tags/1_tags.md"
 	},
 	{
 		"label": "Routing",
-		"file": "6_Routing/1_routing.md"
+		"file": "7_Routing/1_routing.md"
 	},
 	{
 		"label": "Logout",
-		"file": "7_Logout/1_logout.md"
+		"file": "8_Logout/1_logout.md"
 	},
 	{
 		"label": "Settings",
 		"file": "8_settings/1_settings.md"
+	},
+	{
+		"label": "Variables",
+		"file": "9_Variables/variables.md"
+	},
+	{
+		"label": "Reference",
+		"file": "10_Reference/1_Expression_Functions.md"
 	}			
 ]
