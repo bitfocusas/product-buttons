@@ -1,3 +1,5 @@
+**This page is outdated and will be rewritten shortly**
+
 On this page, you get an overview of all the different sources and destinations associated with your router-enabled connections.  
 ![Routing](images/routing_1.png)  
 
