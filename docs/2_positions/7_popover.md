@@ -1,4 +1,4 @@
-`Popover sections` are special `Sections` that expand out from a single button. These are ideal for functions that you want easily accessible but don't use frequently.
+**Popover sections** are special **Sections** that expand out from a single button. These are ideal for functions that you want easily accessible but don't use frequently.
 
 ### Steps to Create a Popover
 
@@ -11,7 +11,7 @@
    ![Popover](images/popover/popover_2.png)
 
 3. **Convert to Popover Section**  
-   Right-click within the selected area and choose `Popover` from the menu.  
+   Right-click within the selected area and choose **Popover** from the menu.  
    ![Popover](images/popover/popover_3.png)
 
 4. **Popover Creation**  
@@ -19,7 +19,7 @@
    ![Popover](images/popover/popover_4.png)
 
 5. **Unfold and Edit the Popover**  
-   Click the `Unfold/Foldup` button at the end of the section bar to view and edit the Popover section. You can add buttons or nested sections as needed.  
+   Click the *Unfold/Foldup* button at the end of the section bar to view and edit the Popover section. You can add buttons or nested sections as needed.  
    ![Popover](images/popover/popover_5.png)
 
 In the Inspector for the Popover, you can customize:  
