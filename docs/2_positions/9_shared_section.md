@@ -23,7 +23,8 @@ You can then add buttons either manually or from presets, here we have added som
 Go in to a position and select the same number of cells as your **Shared Section** right click inside the selected cells, and select **Shared Section**. 
 
 
-![Choose the section](images/shared_section/choose_the_section.png)
+![Choose the section](images/shared_section/choose_the_section.png) 
+
 
 You will be presented with a dialog box that shows you all the **Shared Sections** In your configuration. Choose the "Shared Light Control" 
 
