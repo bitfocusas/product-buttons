@@ -95,23 +95,33 @@ Using the `Shuffle` view, you can achieve an even more detailed view. The exampl
 
 ### Router Inspector Options
 
-The Router Inspector have a lot of settings, and we will take a look at them below 
+The Router Inspector have a lot of settings, and we will take a look at them below. 
+
 ![Router Inspector](images/router/router_inspector_3.png)
 
-**Layout:** 
-![layout](images/router/inspector/layout.png)
-The Layout is described in another part of the Router Section document.
+**Layout:**  
 
-**Scrollbar Position:**
-![Scrollbar Position](images/router/inspector/scrolbar_position.png)
+![layout](images/router/inspector/layout.png)
+
+The Layout is described in another part of the Router Section document.  
+
+
+**Scrollbar Position:**  
+
+![Scrollbar Position](images/router/inspector/scrolbar_position.png)  
+
 Here you can determine where the Navigation buttons for the scroll function should be placed, You can also remove them, if your router section is on a surface with encoders.
 
-**Layout Ration:**
+**Layout Ration:**  
+
 ![Layout Ratio](images/router/inspector/layout_ratio.png)
+
 The Layout Ratio lets you move the dividing line between Sources and Destinations. Making room for more sources than destinations, or the other way around depending on your configuration.
 
-**Options:**
-![Options](images/router/inspector/options.png)
+**Options:**  
+
+![Options](images/router/inspector/options.png) 
+
 The options dialog box lets you turn on and off:
 - Auto Take: Will automatically take a route when you have selected a destination and source.
 - Text Scroll: Will move oversized labels back and forth on the button so that you can read the full label.
@@ -119,8 +129,10 @@ The options dialog box lets you turn on and off:
 - Clear Selection After Take: Will clear the selected sources and destinations after you take the route.
 - Ignore Lock: Some routers will have a Lock state on destinations that will prevent you from making changes to it, turning on this option will ignore any lock state.
   
-**Sorting Mode:**
-![Sorting Mode](images/router/inspector/sorting_mode.png)
+**Sorting Mode:**  
+
+![Sorting Mode](images/router/inspector/sorting_mode.png)  
+
 Determines how the sources and destinations are sorted in the Router Section
 
 - **Default:** 
@@ -131,29 +143,39 @@ Determines how the sources and destinations are sorted in the Router Section
 ![Custom Sort](images/router/inspector/custom_sort.png)
 ![Custom Sort](images/router/inspector/custom_sort_surface.png)
 
-**Ports:**
-![Ports](images/router/inspector/ports.png)
+**Ports:**  
+
+![Ports](images/router/inspector/ports.png)  
+
 Gives you options for the **Auto Matching** under the **Auto** button in the Router Section, here you can select which ports that will be available and Matched in the Router Section. If you want to make a Router section that only handles Video, you can turn of the Audio and Data options. If you turn off the "Show Auto Match Options" the **Auto** button itself will be removed from the Router Section. 
 
-**Available Sources/destinations:**
-![Available Sources and Destinations](images/router/inspector/available_sources_destinations.png)
+**Available Sources/destinations:**  
+
+![Available Sources and Destinations](images/router/inspector/available_sources_destinations.png)  
+
 The Router Section will by default show all available Sources and Destinations in the configurations, by adding **Tags.** In these boxes you can limit which Sources and Destinations are available for the **Router Section.**
 
-**User Filters:**
-![User Filters](images/router/inspector/user_filters.png)
+**User Filters:**  
+
+![User Filters](images/router/inspector/user_filters.png)  
+
 By Default Buttons will use the Auto Generated filters in every **Router Section.** You can add your own, or remove any of the Auto Generated Filters.  
 If you remove all of them, the **Filter Buttons** in the Router Section will also be removed.
 
-**Labels and Label Strategy:**
-![Label and Label Strategy](images/router/inspector/labels_and_strategy.png)
+**Labels and Label Strategy:**  
+
+![Label and Label Strategy](images/router/inspector/labels_and_strategy.png)  
+
 These two settings needs to be seen in conjunction.
 You can choose which Label you want to use on sources and Destinations independently of each other. The **Name** and **Ext Custom label** are fetched from the connections, all connections have a **Name** but not all connections will have an **Ext Custom Label**. The **User**, **Setup** and **Installation.** Labels are user labels created in the Labels section of the Router UI.
 
-![Label Strategy](images/router/inspector/label_strategy.png)
+![Label Strategy](images/router/inspector/label_strategy.png)  
+
 
 The **Label Strategy** will fall back from the label you have chosen under **Labels**. Meaning that, if there is no label in the chosen category it will use the next to the Right all the way down to the **Name** Label in accordance with the chosen **Label Strategy**. If you Choose the Off option you must make sure that all ports have a label in the chosen category, or you will end up with buttons without a label. 
 
-**Styling:**
+**Styling:**  
+
 ![Styling](images/router/inspector/styling.png)
 Here you can change the colors for the sources, Destinations and the Active Source. You can also set the **Font Size** for the Source and Destination buttons.
 
