@@ -9,11 +9,11 @@ The **Router Section** is an automated feature that populates itself with button
    ![Router](images/router/router_1.png)
 
 2. **Define the Size of the Router Section**  
-   Click and drag to select the cells you want to include in the Router Section. Note that there are minimum size requirements: at least 6x2 cells. However, this size is not very practical as there are six mandatory buttons in a **Router Section**. In this example, we select a 16x2 cell area, which can be resized later if needed.  
+   Click and drag to select the cells you want to include in the Router Section. Note that there are minimum size requirements: at least 6x2 cells.  In this example, we select a 16x2 cell area, which can be resized later if needed.  
    ![Router](images/router/router_2.png)
 
 3. **Convert to Router Section**  
-   Right-click within the selected area and choose **Router** from the menu. If the selected area is too small, the **Router** option will be greyed out.  
+   Right-click within the selected area and choose **Router** from the menu. Or simply press **R** after selecting the cells you want.  
    ![Router](images/router/router_3.png)  
    
 
@@ -47,17 +47,17 @@ The Router Inspector provides layout options and settings for your Router Sectio
 ### Limiting Source and Destination access. 
 
 You can also control which sources and destinations are available for your particular router panel.
-   As an example we can use a producer monitor where you want to give the producer access to watch a select set of sources but only be able to change their own monitor alleviating any risk of accidental routing any critical destinations. This is done by using Tags.
+   As an example, we will use a producer monitor, where you want to give the producer access to watch a select set of sources. But only be able to change their own monitor. This is done by using Tags.
 
 Start by adding a tag, in this example we will just put it in the location collection.
-![alt text](images/router/create_tag.png)
-![alt text](images/router/create_tag2.png)
+![Create Tag](images/router/create_tag.png)
+![Create Tag](images/router/create_tag2.png)
 
 Go in to the Destination bundles and select the output that the Producer monitor is connected to.
-![alt text](images/router/add_destinations.png)
+![Add Destination](images/router/add_destinations.png)
 
-Likewise go in to the Source bundles and select the sources you want the Producer to be able to choose between. 
-![alt text](images/router/add_source2.png)
+Likewise, go in to the Source bundles and select the sources, you want the Producer to be able to choose between. 
+![Add Source](images/router/add_source2.png)
 
 Then go in to the Inspector of the producer router panel, and change the available sources and destinations by clicking in the boxes of either. This will bring up the **Select Tag** dialog, here you select the **Producer** Tag you just created for both Source and Destination. And Click Apply
 ![Change Router Tags](images/router/router_tag_change_tags.png)
@@ -147,7 +147,7 @@ Determines how the sources and destinations are sorted in the Router Section
 
 ![Ports](images/router/inspector/ports.png)  
 
-Gives you options for the **Auto Matching** under the **Auto** button in the Router Section, here you can select which ports that will be available and Matched in the Router Section. If you want to make a Router section that only handles Video, you can turn of the Audio and Data options. If you turn off the "Show Auto Match Options" the **Auto** button itself will be removed from the Router Section. 
+Gives you options for the **Auto Matching** under the **Auto** button in the Router Section, here you can select which ports that will be available and Matched in the Router Section. If you want to make a Router section that only handles Video, you can turn off the Audio and Data options. If you turn off the "Show Auto Match Options" the **Auto** button itself will be removed from the Router Section. 
 
 **Available Sources/destinations:**  
 
