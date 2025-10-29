@@ -29,7 +29,7 @@ Notice the **...** **Button** at the end of the **Section**. This indicates that
 ![alt text](images/presets/resize_section.png)  
 
 ### The **Popover** Option  
-![Preset Popover](images/presets/Preset_popover.png "Preset Popover")  
+![Preset Popover](images/presets/preset_popover.png "Preset Popover")  
 
 The **Popover** section typically contains a single **Button**. Drag it onto the **Canvas** and *push* it to see it in action.
 
