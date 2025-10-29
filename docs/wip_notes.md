@@ -3,4 +3,9 @@ Write instruction for using the hide navigation buttons and creating your own na
 
 ## Router section with single destination using the locked destination Style 
 
+## Add information about Logview in connect 
+
+## rewrite the connect info 
+
+
 

@@ -35,7 +35,7 @@ This will place the shared section in your Position with all the buttons.
 ![6 shared sections](images/shared_section/6_shared_section.png)
 
 And you can reuse it as many times you want, both in one, and in multiple positions.
-If you need to edit the edit the section, you can click on the shared section, witch will bring up the section bar with a button to take you straight to the right shared section.
+If you need to edit the section, you can click on the shared section, witch will bring up the section bar with a button to take you straight to the right shared section.
 
 ![Shared section with back navigation ](images/shared_section/back_navigation.png)
 
