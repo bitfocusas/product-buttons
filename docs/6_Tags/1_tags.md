@@ -1,3 +1,5 @@
+**This document is outdated and will be updated shortly**
+
 **Tags** are keywords you can add to the different elements of **Buttons** to create an organizational structure, or filter search results
 ![Tags](images/tags_1.png)
 Large implementations of buttons can greatly benefit from additional organizational structure, here you can add **Tags** and structure according to your needs.

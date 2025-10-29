@@ -1,3 +1,6 @@
+**This Document is outdated and will be updated shortly.**
+
+
 **Connect** is where we link **Buttons** to the outside world: switchers, routers, software, hardware, and other imaginable (and unimaginable) options.  
 ![alt text](images/empty_connect.png)
 
