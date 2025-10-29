@@ -19,10 +19,10 @@ On the far left, we have the menu bar. Here you can see the different pages avai
     - **Salvo**: The Salvo UI for creating, executing and editing salvos
     - **Labels**: UI for setting user labels for the Routing system
     - **Config**: An overview over all Ports and Bundles can be viewed  
-- **Log Out**: Will log you out of the Buttons UI
+- **Log Out**: Will log you out of the Buttons UIv
 - **Settings**: The system configuration page
 
-To the right, the leftmost pane shows currently configured and active components, and their status.
+To the right, the center panes shows currently configured and active components, and their status.
 - **Positions**: Displays all configured positions
 - **Surfaces**: Displays the control surfaces
 - **Connections**: Displays all non NMOS  connections
@@ -30,11 +30,12 @@ To the right, the leftmost pane shows currently configured and active components
 - **Workflows**: Displays all configured Workflows
 - **Cuelist**: Displays all configured Cuelists
 
-The middle pane provides:
+
+
+
+On the rightmost pane, you'll find version information and support options:
 - **Version information**
 - **Feedback box**: For sending feedback to Bitfocus. Please do not use this option for support requirements.
-
-On the rightmost pane, you'll find support options:
 - **Slack community**: Chat with developers and users worldwide
 - **Facebook group**: Join the Bitfocus community on Facebook
 - **Email**: Contact support@bitfocus.io directly
