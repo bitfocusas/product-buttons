@@ -28,8 +28,9 @@ Notice the **...** **Button** at the end of the **Section**. This indicates that
 ![Tree-pane](images/presets/preset_tree.png)
 ![alt text](images/presets/resize_section.png)  
 
-### The **Popover** Option  
-![Preset Popover](images/presets/preset_popover.png "Preset Popover")  
+### The **Popover** Option. 
+ 
+![Popover Preset](images/presets/preset_popover.png)
 
 The **Popover** section typically contains a single **Button**. Drag it onto the **Canvas** and *push* it to see it in action.
 
