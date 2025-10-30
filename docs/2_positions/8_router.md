@@ -153,13 +153,13 @@ Gives you options for the **Auto Matching** under the **Auto** button in the Rou
 
 ![Available Sources and Destinations](images/router/inspector/available_sources_destinations.png)  
 
-The Router Section will by default show all available Sources and Destinations in the configurations, by adding **Tags.** In these boxes you can limit which Sources and Destinations are available for the **Router Section.**
+The Router Section will by default show all available Sources and Destinations in the configurations. By adding **Tags** In these boxes you can limit which Sources and Destinations are available for the **Router Section.**
 
 **User Filters:**  
 
 ![User Filters](images/router/inspector/user_filters.png)  
 
-By Default Buttons will use the Auto Generated filters in every **Router Section.** You can add your own, or remove any of the Auto Generated Filters.  
+By Default, Buttons will use the Auto Generated filters in every **Router Section.** You can add your own, or remove any of the Auto Generated Filters.  
 If you remove all of them, the **Filter Buttons** in the Router Section will also be removed.
 
 **Labels and Label Strategy:**  
