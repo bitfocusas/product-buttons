@@ -1,5 +1,5 @@
 
-- Connect the hardware and software you want to control to the network.
+Connect the hardware and software you want to control to the network.
 
 ### Release notes.
 
