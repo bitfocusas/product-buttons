@@ -2,7 +2,7 @@ The **Shift Section** effectively doubles the "real estate" available by adding 
 
 
 
-### Creating a Shift Section
+
 
 1. **Select the Starting Cell**  
    Click on the cell where you want the shift section to begin.

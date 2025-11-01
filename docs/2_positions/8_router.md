@@ -2,7 +2,8 @@ The **Router Section** is an automated feature that populates itself with button
 
 ---
 
-### Steps to Create a Router Section
+**Steps to Create a Router Section**
+
 
 1. **Select the Starting Cell**  
    Click on the cell where you want to begin your router section.  
@@ -23,7 +24,7 @@ The **Router Section** is an automated feature that populates itself with button
 
 ---
 
-### Router Layout Options and Settings
+**Router Layout Options and Settings**
 
 The Router Inspector provides layout options and settings for your Router Section.  
 ![Router Layout](images/router/router_inspector2.png)
@@ -44,7 +45,8 @@ The Router Inspector provides layout options and settings for your Router Sectio
 
 
 ---
-### Limiting Source and Destination access. 
+**Limiting Source and Destination access.**
+
 
 You can also control which sources and destinations are available for your particular router panel.
    As an example, we will use a producer monitor, where you want to give the producer access to watch a select set of sources. But only be able to change their own monitor. This is done by using Tags.
@@ -68,7 +70,7 @@ Your router panel will now only show the selected Sources and Destinations.
 
 ---
 
-### Filtering and Tagging
+**Filtering and Tagging**
 
 The Router automatically filters your **Sources** or **Destinations** as you interact with them.  
 In the example below, selecting **SDI1** on **NMOS A** as a **Source** filters the **Destinations** to show only the compatible NMOS destinations in our demo setup.  
@@ -79,7 +81,7 @@ You can refine filtering by using the filter buttons. The filter tags shown are 
 
 ---
 
-### Advanced Routing with Shuffle and Auto
+**Advanced Routing with Shuffle and Auto**
 
 With the **Shuffle** and **Auto** buttons, you can control which components of a source are routed to a destination. Note that not all devices support component splitting; for instance, NMOS devices typically allow this by default, whereas budget routers may not.  
 Below is an example of a two-part route:  
@@ -88,12 +90,13 @@ Below is an example of a two-part route:
 ![Router Auto](images/router/router_auto_1.png)  
 ![Router Auto](images/router/router_auto_2.png)
 
-Using the `Shuffle` view, you can achieve an even more detailed view. The example shows a 64ch Madi destination and a 4 ch SDI Input of a Atem 4me Constellation. Buttons give you access to route any of the 4 source Audio channels to any of the Madi destination. You can press the purple `Destination` button to toggle between active sources and destinations.  
+Using the **Shuffle** view, you can achieve an even more detailed view. The example shows a 64ch Madi destination and a 4 ch SDI Input of an Atem 4me Constellation. 
+Buttons give you access to route any of the 4 source Audio channels to any of the Madi destination. You can press the purple **Destination** button to toggle between active sources and destinations.  
 ![Router Shuffle](images/router/router_shufle.png)
 
 ---
 
-### Router Inspector Options
+**Router Inspector Options**
 
 The Router Inspector have a lot of settings, and we will take a look at them below. 
 

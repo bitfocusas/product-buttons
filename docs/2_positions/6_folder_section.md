@@ -1,7 +1,6 @@
 **Folder sections** function similarly to **Shift sections**, but with the added flexibility of multiple layers. You can navigate a folder section using the familiar method of folders and subfolders.
 
-
-### Steps to Create a Folder Section
+**Steps to Create a Folder Section**
 
 1. **Select Starting Cell**  
    Click on the cell where you want to start your folder section.
@@ -28,18 +27,19 @@
 
 ### Managing Folder Sections in the Inspector
 
-- Navigate to the **Inspector** and open the `Pages/Scroll` dialog.  
-  You will see the **Main** and the three default sub-folders listed. To add additional subfolders, click the `+ Add Folder` button in the bottom of the `Pages` dialog. You can drag and drop any folder on top of another folder to make it a subfolder of that folder. 
-![Inspector](images/folder_section/folder_section_inspector.png)  
+- Navigate to the **Inspector** and open the *Navigation* dialog.  
+  You will see the **Main** and the different sub-folders listed. To add additional subfolders, click the **+ Add Folder** button in the bottom of the *Pages* dialog. You can drag and drop any folder on top of another folder to make it a subfolder of that folder. 
 
-![Inspector](images/folder_section/folder_section_inspector_2.png)
 
-- As you add pages or subfolders, a familiar hierarchy forms in the `Pages` dialog. You can:  
+![Folder Section](images/folder_section/folder_section_5.png)
+
+- As you add pages or subfolders, a familiar hierarchy forms in the *Pages* dialog. You can:  
   - Rename folders.  
   - Change colors and icons.  
   - Modify the folder layout order (e.g., left-to-right or top-to-bottom).  
-  - Adjust the return button within each folder.  
+  - Adjust the return button within each folder.
+  - Turn off the Folder navigation buttons
+  - Turn off the return Button. 
 
-- Additionally, you can utilize the `Scroll`/`Overflow` function within subfolders to fit more buttons into the same cell area.  
-
-![Folder Section](images/folder_section/folder_section_5.png)
+- Additionally, you can utilize the *Scroll* function within subfolders to fit more buttons into the same cell area.  
+> **TIP** You can use the internal action *Set Active Page* to create your own navigation

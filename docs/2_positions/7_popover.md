@@ -15,11 +15,11 @@
    ![Popover](images/popover/popover_3.png)
 
 4. **Popover Creation**  
-   The selected cells will now be converted into a Popover. Even though you selected 32 cells, only the starting cell is initially occupied, leaving the remaining 31 cells free for other sections and buttons.  
+   The selected cells will now be converted into a Popover. Even though you selected 10 cells, only the starting cell is initially occupied, leaving the remaining 31 cells free for other sections and buttons.  
    ![Popover](images/popover/popover_4.png)
 
 5. **Unfold and Edit the Popover**  
-   Click the *Unfold/Foldup* button at the end of the section bar to view and edit the Popover section. You can add buttons or nested sections as needed.  
+   Click the *Open/Close* button at the end of the section bar to view and edit the Popover section. You can add buttons or nested sections as needed.  
    ![Popover](images/popover/popover_5.png)
 
 In the Inspector for the Popover, you can customize:  
