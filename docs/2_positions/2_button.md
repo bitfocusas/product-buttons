@@ -292,7 +292,7 @@ And there is a **...** menu at the end of the dropdown selector.
 
 There is also a couple of variables associated with the encoder selector `$(self.encoderSelectorValue)` and
 `$(self.encoderSelectorLabel)`.  
-The `$(self.encoderSelectorValue)` holds the actual value, and in this case it's a decimal number between 0 and 1, which was also what we used for the Gauge value in the previous example, but here we don't need to do any math as the number is available to us. What the actual content of this variable is will depend on the connection But you can put it in to a Text field and use it as a label to see what the content is and whether it will be useful for you. 
+The `$(self.encoderSelectorValue)` holds the actual value, and in this case it's a decimal number between 0 and 1, which was also what we used for the Gauge value in the previous example, but here we don't need to do any math, as the number is available to us. What the actual content of this variable is will depend on the connection But you can put it in to a Text field and use it as a label to see what the content is and whether it will be useful for you. 
 The `$(self.encoderSelectorLabel)` is the values shown in the dropdown list.
 
 ![Encoder Selector](images/button/encoder_selector5.png)

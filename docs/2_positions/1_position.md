@@ -1,6 +1,6 @@
 ![Position](images/position/positions.png 'Position')
 
-**Position** defines a collection of one or more **Surfaces**. It typically aligns with the working role of an individual, such as Vision Mixer, Graphics, or Shader. Each **Position** can be tagged for better **Organization**. To create a new **Position**, click the `+Create` button at the top of the left pane. 
+**Position** defines a collection of one or more **Surfaces**. It typically aligns with the working role of an individual, such as Vision Mixer, Graphics, or Shader. Each **Position** can be tagged for better **Organization**. To create a new **Position**, click the **+Create** button at the top of the left pane. 
 
 A dialog box will appear, prompting you to enter a label for the **Position**. It's a good idea to plan your naming conventions beforehand to maintain a logical and consistent system. You can also create **Positions** when configuring your **Surfaces**.
 

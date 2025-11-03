@@ -25,7 +25,7 @@ Each connection comes with a version dropdown and several informational badges.
 
 ![Router Badge](images/router_badge.png)
 
-**Router Badge**: Indicates that the connection supports the Router system in Buttons. To filter the connections list for Router-supported options, click *Only Routers* at the top of the list.  
+**Router Badge**: Indicates that the connection is supported by the Router system in Buttons. To filter the connections list for Router-supported options, click *Only Routers* at the top of the list.  
 
 ![Legacy Badge](images/legacy_badge.png)
 
@@ -95,7 +95,8 @@ The Connection view option buttons
 
 ![Log view](images/log_view.png)
 
-Logview.
+Log view.  
+
 
 ![Minimized](images/minimized_view.png) ![maximized](images/maximized_view.png)
 

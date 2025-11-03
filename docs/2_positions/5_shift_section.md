@@ -23,6 +23,8 @@ The **Shift Section** effectively doubles the "real estate" available by adding 
 Now you have created a Shift section
 ![Shift Section](images/shift_section/shift_section_4.png)
 
+> **TIP**  You can turn off the **Shift** button, and use the internal action *Set Active Page* to navigate between the *Main* and *Shift* page to create your own navigation
+
 ### Benefits of a Shift Section
 
 With the Shift Section in place, you now have a button to toggle between the main and shift layers. This is particularly useful for setups like PTZ camera presets, where:

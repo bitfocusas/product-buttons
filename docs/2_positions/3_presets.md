@@ -41,4 +41,4 @@ The **Popover** **Button** expands and unfolds over other **Buttons** on the **C
 
 ---
 
-This overview of **Presets** highlights how they can accelerate setup—whether for a small, single **Surface** configuration or a large-scale deployment with multiple rooms and hundreds of **Surfaces**. Keep in mind that not all **Connection modules** include **Presets**, and not all **Actions** are available as **Presets**. If you can’t find a **Preset** that meets your needs, explore the **Actions** in the module. You may still achieve your goal by manually creating the **Button**.
+This overview of **Presets** highlights how they can accelerate setup—whether for a small, single **Surface** configuration or a large-scale deployment with multiple **Positions** and hundreds of **Surfaces**. Keep in mind that not all **Connection modules** include **Presets**, and not all **Actions** are available as **Presets**. If you can’t find a **Preset** that meets your needs, explore the **Actions** in the module. You may still achieve your goal by manually creating the **Button**.

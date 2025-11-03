@@ -9,7 +9,8 @@ Write instruction for using the hide navigation buttons and creating your own na
 
 ## Rewrite and add NMOS 
 
-## rewrite Licence and make new screen shots 
+## rewrite Licence and make new screenshots (done)
+
 
 ## Rewrite settings and take new screen shots 
 
