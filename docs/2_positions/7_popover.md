@@ -1,6 +1,6 @@
 **Popover sections** are special **Sections** that expand out from a single button. These are ideal for functions that you want easily accessible but don't use frequently.
 
-### Steps to Create a Popover
+**Steps to Create a Popover**
 
 1. **Select Starting Cell**  
    Click on the cell where you want to place your Popover.  
