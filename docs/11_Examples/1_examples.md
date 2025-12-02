@@ -1,4 +1,3 @@
-**Examples**
 
 Radio button set with section variable 
 
