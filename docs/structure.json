@@ -86,5 +86,9 @@
 	{
 		"label": "Reference",
 		"file": "10_Reference/1_ Expression_Functions.md"
-	}			
+	},
+	{
+		"label": "Examples",
+		"file": "11_Examples/1_examples.md"
+	}						
 ]
