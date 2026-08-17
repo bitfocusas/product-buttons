@@ -1,2 +1,2 @@
 ## Buttons Documentation
-[→ Go to Documentation](https://support.bitfocus.io)
+[→ Go to Documentation](https://bitfocus.io/docs/buttons)
